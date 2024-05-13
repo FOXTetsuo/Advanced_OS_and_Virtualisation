@@ -1,0 +1,14 @@
+C:\Users\Pownu\OneDrive\JAPAN DOCUMENTS\Shibaura\Class materials\Advanced OS and Virtualisation\C#brainfk\brainfk\brainfk\bin\Debug\net7.0\brainfk.exe
+C:\Users\Pownu\OneDrive\JAPAN DOCUMENTS\Shibaura\Class materials\Advanced OS and Virtualisation\C#brainfk\brainfk\brainfk\bin\Debug\net7.0\brainfk.deps.json
+C:\Users\Pownu\OneDrive\JAPAN DOCUMENTS\Shibaura\Class materials\Advanced OS and Virtualisation\C#brainfk\brainfk\brainfk\bin\Debug\net7.0\brainfk.runtimeconfig.json
+C:\Users\Pownu\OneDrive\JAPAN DOCUMENTS\Shibaura\Class materials\Advanced OS and Virtualisation\C#brainfk\brainfk\brainfk\bin\Debug\net7.0\brainfk.dll
+C:\Users\Pownu\OneDrive\JAPAN DOCUMENTS\Shibaura\Class materials\Advanced OS and Virtualisation\C#brainfk\brainfk\brainfk\bin\Debug\net7.0\brainfk.pdb
+C:\Users\Pownu\OneDrive\JAPAN DOCUMENTS\Shibaura\Class materials\Advanced OS and Virtualisation\C#brainfk\brainfk\brainfk\obj\Debug\net7.0\brainfk.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pownu\OneDrive\JAPAN DOCUMENTS\Shibaura\Class materials\Advanced OS and Virtualisation\C#brainfk\brainfk\brainfk\obj\Debug\net7.0\brainfk.AssemblyInfoInputs.cache
+C:\Users\Pownu\OneDrive\JAPAN DOCUMENTS\Shibaura\Class materials\Advanced OS and Virtualisation\C#brainfk\brainfk\brainfk\obj\Debug\net7.0\brainfk.AssemblyInfo.cs
+C:\Users\Pownu\OneDrive\JAPAN DOCUMENTS\Shibaura\Class materials\Advanced OS and Virtualisation\C#brainfk\brainfk\brainfk\obj\Debug\net7.0\brainfk.csproj.CoreCompileInputs.cache
+C:\Users\Pownu\OneDrive\JAPAN DOCUMENTS\Shibaura\Class materials\Advanced OS and Virtualisation\C#brainfk\brainfk\brainfk\obj\Debug\net7.0\brainfk.dll
+C:\Users\Pownu\OneDrive\JAPAN DOCUMENTS\Shibaura\Class materials\Advanced OS and Virtualisation\C#brainfk\brainfk\brainfk\obj\Debug\net7.0\refint\brainfk.dll
+C:\Users\Pownu\OneDrive\JAPAN DOCUMENTS\Shibaura\Class materials\Advanced OS and Virtualisation\C#brainfk\brainfk\brainfk\obj\Debug\net7.0\brainfk.pdb
+C:\Users\Pownu\OneDrive\JAPAN DOCUMENTS\Shibaura\Class materials\Advanced OS and Virtualisation\C#brainfk\brainfk\brainfk\obj\Debug\net7.0\brainfk.genruntimeconfig.cache
+C:\Users\Pownu\OneDrive\JAPAN DOCUMENTS\Shibaura\Class materials\Advanced OS and Virtualisation\C#brainfk\brainfk\brainfk\obj\Debug\net7.0\ref\brainfk.dll
